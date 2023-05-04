@@ -1,12 +1,10 @@
-import TitlePage from "../../../../components/pagesComponents/TitlePage"
-
+import TitlePage from "@/components/pagesComponets/TitlePage";
 
 const Settings = () => {
   return (
     <>
-    <TitlePage title="Settings" />
+      <TitlePage title="Settings" />
     </>
-  )
-}
-
-export default Settings
+  );
+};
+export default Settings;
