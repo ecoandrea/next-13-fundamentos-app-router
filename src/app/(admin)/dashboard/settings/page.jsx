@@ -1,4 +1,4 @@
-import TitlePage from "@/components/pagesComponets/TitlePage";
+import TitlePage from "@/components/pagesComponents/TitlePage";
 
 const Settings = () => {
   return (
